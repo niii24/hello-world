@@ -1,2 +1,2 @@
 # hello-world
-Anew developer
+A new developer
